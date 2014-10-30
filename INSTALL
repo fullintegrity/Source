@@ -1,0 +1,9 @@
+Building Fullintegritycoin
+
+See doc/readme-qt.rst for instructions on building Fullintegritycoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Fullintegritycoin.
+
+See doc/build-*.txt for instructions on building fullintegritycoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Fullintegritycoin.
